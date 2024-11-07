@@ -8,3 +8,4 @@ github:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-theme-hamilton
