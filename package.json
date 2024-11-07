@@ -1,0 +1,9 @@
+{
+  "name": "my-github-blog",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "jekyll build",
+    "serve": "jekyll serve"
+  }
+}
+
