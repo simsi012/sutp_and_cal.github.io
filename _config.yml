@@ -5,6 +5,8 @@ url: "https://simsi012.github.io"
 github:
   username: simsi012
 
+theme: jekyll-theme-hamilton
 plugins:
-  - jekyll-theme-hamilton
+  - jekyll-feed
+  - jekyll-seo-tag
 
