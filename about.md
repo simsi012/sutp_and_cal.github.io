@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: THISISSIMSI012WORLD
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Hello This my page
