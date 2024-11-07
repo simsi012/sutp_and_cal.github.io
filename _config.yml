@@ -4,3 +4,7 @@ url: "https://simsi012.github.io"
 
 github:
   username: simsi012
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
